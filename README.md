@@ -1,5 +1,7 @@
 # Retail-Price-Optimization
 
+[![Screenshot (10)](web_page.png)]
+
 In this machine learning pricing project, regression trees used to construct a retail price optimization method. This is one of the first phases involved in constructing a dynamic pricing model.
 Project Steps:
 1.	Understanding the retail price
