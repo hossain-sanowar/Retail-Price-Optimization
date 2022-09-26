@@ -5,22 +5,6 @@ Machine Learning project for Retail Price Optimisation
  
 
 In this machine learning pricing project, regression trees used to construct a retail price optimization method. This is one of the first phases involved in constructing a dynamic pricing model.
-Project Steps:
-1.	Understanding the retail price
-2.	In depth understanding of price elasticity
-3.	Setting for Jupyter notebook to enable faster coding
-4.	Importing Libraries
-5.	Importing datasets and initial understanding with the help of visualizations
-6.	Understanding business context with the help of data
-7.	Combining data
-8.	Making inferences from plots
-9.	Learning to segregate data based on analysis
-10.	Implementing model to identify price elasticity of items
-11.	Creating generic code to identify price elasticity of all items
-12.	Understand criteria to select model
-13.	Walkthrough of price optimization for one product and visualizing the outputs
-14.	Generic code for price optimization for all products
-15.	Connecting Postgres database to Python
 
 Description:
 Introduction to Price Optimization
