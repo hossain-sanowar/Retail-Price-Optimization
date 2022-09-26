@@ -62,5 +62,5 @@ One can apply different types of price optimization techniques like reducing can
 2) What is Price Optimization Machine learning?
 
 Price Optimization can be achieved using regression machine learning algorithms like linear regression. One can first estimate the price elasticity for each product using the past sales data and then use that coefficient for price optimization.
-![image](https://user-images.githubusercontent.com/52736275/192363905-c241246e-7cf0-4b79-a2ee-e324b9c773b4.png)
+
 
